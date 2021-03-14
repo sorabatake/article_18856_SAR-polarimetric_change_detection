@@ -6,9 +6,10 @@
 なお、SARデータの取得にはTellusの開発環境を申し込む必要があります。
 
 ## 構成
-- xxxx.ipynb
-  - 見通しを判定するコード。
-- 
+- SAR_get.ipynb
+  - Tellus上でSAR画像（PALSAR-2）を取得してくるためのコード。
+- source_code.ipynb
+  -  SAR画像を使った変化検出およびコヒーレンス検出
 
 ## ライセンス、利用規約
 ソースコードのライセンスは CC0-1.0（Creative Commons Zero v1.0 Universal）ライセンスです。  
